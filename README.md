@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Smriti Sinha
-- 👀 I’m interested in coding.
 - 🌱 I’m currently learning BCA.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sinhasmriti48@gmail.com
 
 <!---
