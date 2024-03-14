@@ -1,25 +1,11 @@
 **Smriti Sinha**
 
-**Degree** 
+**Degree**    * Undergraduate : BCA
 
-* Undergraduate : BCA
+**Lnguage learnt**    * Python    * C programming    * C++    * Java
 
+**Database engine learnt**    * MySQL    * Mongodb
 
-**Lnguage learnt**
-
-* Python
-* C programming
-* C++
-* Java
-
-**Database engine learnt**
-* MySQL
-* Mongodb
-
-**Projects:**
-
-**Project 1:** Frontend : University website using html and css
-
-**Project 2:** Backend : Hotel management system using python and mongodb
+**Projects:**             **Project 1:** Frontend : University website using html and css              **Project 2:** Backend : Hotel management system using python and mongodb
 
 **Contact:** sinhasmriti48@gmail.com
