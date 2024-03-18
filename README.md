@@ -2,7 +2,7 @@
 
 **Degree**     Undergraduate : BCA
 
-**Lnguage learnt**     Python     C programming     C++     Java
+**Language learnt**     Python     C programming     C++     Java
 
 **Database engine learnt**     MySQL     Mongodb
 
