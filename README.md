@@ -1,5 +1,3 @@
-**Smriti Sinha**
-
 **Degree**     Undergraduate : BCA
 
 **Language learnt**     Python     C programming     C++     Java
