@@ -2,6 +2,8 @@
 
 **Language learnt**     Python     C programming     C++     Java
 
+**Web**      HTML CSS
+
 **Database engine learnt**     MySQL     Mongodb
 
 **Projects:**             
