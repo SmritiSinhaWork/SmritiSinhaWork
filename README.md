@@ -1,4 +1,4 @@
-**Degree**     Undergraduate : BCA 
+**Degree**     Undergraduate : BCA      Postgraduate : MCA
 
 **Language learnt**     Python     C programming     C++     Java
 
